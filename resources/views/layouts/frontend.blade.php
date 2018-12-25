@@ -31,7 +31,7 @@
 	<link rel="stylesheet" href="{{ URL::asset('assets/css/custom.css') }}">
 
 	<!--// SITES TITLE // -->
-	<title>Jatin</title>
+	<title>Jatin-Portfolio</title>
 
 </head>
 
